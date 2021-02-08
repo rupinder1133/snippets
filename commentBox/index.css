@@ -1,0 +1,16 @@
+.controls {
+    background-color: black;
+    padding: 16px;
+    margin: 16px;
+    border: 2px solid yellow;
+}
+
+.controls button {
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+#nuke {
+    color: red;
+    font-weight: bold;
+}
