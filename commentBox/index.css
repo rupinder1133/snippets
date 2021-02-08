@@ -30,10 +30,25 @@ button {
 .postContainer {
     border-left: 1px solid black;
     padding: 4px;
-    font-weight: bold;
-    font-style: italic;
+    width: 50%;
 }
 
 .postContainer + .postContainer {
     margin-top: 16px;
+}
+
+.postContent {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.replyBtn {
+    border: none;
+    background-color: transparent;
+    color: gray;
+    font-style: italic;
+}
+
+.replies {
+    margin-left: 16px;
 }
