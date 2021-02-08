@@ -1,6 +1,6 @@
 # snippets
 
-See in action
+[See in action](https://rupinder1133.github.io/snippets/)
 
 
 ## Development locally
